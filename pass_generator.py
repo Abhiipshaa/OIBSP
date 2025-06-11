@@ -12,11 +12,6 @@ COLOR_LIGHT_GREY_BG = "#EEEEEE"
 COLOR_BLACK = "black"
 COLOR_FRAME_BG = "#333333"
 
-# --- Function Definitions (MUST be defined before they are used by widgets) ---
-
-# Global variables for Checkbutton states and output display (need to be defined before the function uses them)
-# These will be initialized as Tkinter variables (IntVar, StringVar) after Tk() is created.
-# We declare them here so the function knows they exist, but their actual Tkinter creation is below.
 num_of_char_entry_var = None
 include_symbols = None
 include_digits = None
