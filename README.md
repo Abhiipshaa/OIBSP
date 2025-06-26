@@ -14,3 +14,6 @@ Character Inclusion Options- Choose to include or exclude:
 Strong Password Recommendations- The program provides guidance on creating more secure passwords, such as recommending a minimum length of 8 characters.
 User-Friendly Interface- A clean and intuitive graphical interface makes password generation straightforward.
 Instant Generation- Get your secure password with just a click.
+
+3)weather.py 
+Is a simple Python script that displays the current weather of any city entered by the user. It fetches real-time data from a weather API and shows details like temperature, condition, humidity, and wind speed.
